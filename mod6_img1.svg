@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>do-more-with-add-ons</title>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Opt2_v7" transform="translate(-187.000000, -3545.000000)">
+            <g id="do-more-with-add-ons" transform="translate(187.000000, 3545.000000)">
+                <rect id="Rectangle" fill="#F8F9FA" x="0" y="0" width="48" height="48"></rect>
+                <circle id="Oval" fill="#1A73E8" cx="24" cy="24" r="24"></circle>
+                <g id="docs_add_on_gm_grey_24dp" transform="translate(10.000000, 10.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="28" height="28"></rect>
+                    <g id="Group" transform="translate(3.500000, 3.500000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="1.13166667" width="17.5" height="2.33333333"></rect>
+                        <rect id="Rectangle" x="0" y="5.79833333" width="17.5" height="2.33333333"></rect>
+                        <path d="M0,15.1316667 L0,17.465 L9.43833333,17.465 C9.38,17.08 9.33333333,16.695 9.33333333,16.2983333 C9.33333333,15.9016667 9.38,15.5166667 9.43833333,15.1316667 L0,15.1316667 L0,15.1316667 Z" id="Path"></path>
+                        <path d="M0,10.465 L0,12.7983333 L10.2783333,12.7983333 C10.815,11.865 11.5733333,11.06 12.4716667,10.465 L0,10.465 Z" id="Path"></path>
+                        <polygon id="Path" points="17.5 15.1316667 17.5 11.6316667 15.1666667 11.6316667 15.1666667 15.1316667 11.6666667 15.1316667 11.6666667 17.465 15.1666667 17.465 15.1666667 20.965 17.5 20.965 17.5 17.465 21 17.465 21 15.1316667"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
